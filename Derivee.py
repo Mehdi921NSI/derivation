@@ -1,4 +1,5 @@
 from sympy import *
+from math import *
 x = Symbol('x')
 a = 3*x
 b = 3*x**2+4*x+2
